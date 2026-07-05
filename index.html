@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Legere — downloads</title>
+<style>
+  :root {
+    --bg: #f6f6f4; --surface: #fff; --fg: #1a1a1a; --muted: #6b6b6b;
+    --line: #dcdcd8; --accent: #16a34a; --code-bg: #f1f1ef;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #151517; --surface: #1f1f23; --fg: #ededed; --muted: #a1a1aa;
+      --line: #33333a; --accent: #4ade80; --code-bg: #26262b;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--bg); color: var(--fg);
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+    min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 32px;
+  }
+  main { max-width: 640px; width: 100%; }
+  .brand { display: flex; align-items: baseline; gap: 12px; margin-bottom: 4px; }
+  .brand h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.03em; margin: 0; }
+  .dot { width: 11px; height: 11px; border-radius: 50%; background: var(--accent); display: inline-block; }
+  .tag { color: var(--muted); margin: 0 0 28px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 20px 22px; margin-bottom: 16px; }
+  .card h2 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin: 0 0 12px; font-weight: 700; }
+  .status { display: inline-flex; align-items: center; gap: 7px; font-size: 0.9rem; color: var(--muted); }
+  pre { background: var(--code-bg); border: 1px solid var(--line); border-radius: 7px; padding: 13px 15px; overflow-x: auto; margin: 0; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.84rem; line-height: 1.7; }
+  .muted-note { color: var(--muted); font-size: 0.86rem; margin: 10px 0 0; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer { color: var(--muted); font-size: 0.82rem; margin-top: 22px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="brand"><span class="dot"></span><h1>Legere</h1></div>
+  <p class="tag">Read, spar on, and observe your files — a quiet desktop app for Ubuntu.</p>
+
+  <div class="card">
+    <h2>Status</h2>
+    <p class="status">◷ First release coming soon — this page will carry install instructions and downloads.</p>
+  </div>
+
+  <div class="card">
+    <h2>Install on Ubuntu (once published)</h2>
+    <pre><code>curl -fsSL https://mcsuhone.github.io/legere-dist/apt/key.gpg | sudo tee /usr/share/keyrings/legere.gpg &gt;/dev/null
+echo "deb [signed-by=/usr/share/keyrings/legere.gpg] https://mcsuhone.github.io/legere-dist/apt stable main" | sudo tee /etc/apt/sources.list.d/legere.list
+sudo apt update &amp;&amp; sudo apt install legere</code></pre>
+    <p class="muted-note">After the first install, updates arrive automatically through your system updater — no re-downloading.</p>
+  </div>
+
+  <footer>Distribution for <a href="https://github.com/mcsuhone/legere-app">Legere</a> · signed APT repository · macOS &amp; Windows to follow.</footer>
+</main>
+</body>
+</html>
