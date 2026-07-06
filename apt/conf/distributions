@@ -1,0 +1,8 @@
+Origin: Legere
+Label: Legere
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Legere APT repository
+SignWith: 63B8DF7E6AE4C0DDDF69AA99091996E7C68EB572
