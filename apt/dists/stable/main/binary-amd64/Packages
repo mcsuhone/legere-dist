@@ -1,0 +1,16 @@
+Package: legere
+Version: 0.1.0
+Architecture: amd64
+Installed-Size: 17602
+Maintainer: you
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/l/legere/legere_0.1.0_amd64.deb
+Size: 7672426
+SHA256: 7478b6595756d547a2c58866f82bffda37663a5f8b75240d380655be86744a16
+SHA1: efeb42c2bfc4580061fa5fe6e254f9f02c4d3de0
+MD5sum: cc1d19116d418b9ad70cdf1852a4c444
+Description: A Tauri App
+ (none)
+

@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Legere
+Label: Legere
+Architecture: amd64
+Description: Legere APT repository

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Legere
+Label: Legere
+Suite: stable
+Codename: stable
+Date: Tue, 07 Jul 2026 07:51:02 UTC
+Architectures: amd64
+Components: main
+Description: Legere APT repository
+MD5Sum:
+ 69d09b1f521bd1ddae997f04072594cf 425 main/binary-amd64/Packages
+ cc18ec755a6e48b707d3e840d16c971d 331 main/binary-amd64/Packages.gz
+ 502a4b909dc22f22ccedf1b216914da2 116 main/binary-amd64/Release
+SHA1:
+ 971f41758812e14ec598a73a81b38c950f1da4a2 425 main/binary-amd64/Packages
+ 2f64336d91c1e3560f7a134488cd7e75b8e56e7a 331 main/binary-amd64/Packages.gz
+ 307006c4b009a6e5f934fb5c5a0a18448b5d8bb6 116 main/binary-amd64/Release
+SHA256:
+ 449ec9a3b66fd24abb2e891314b163eaf91b64a7afe01b48c4618d40fe83f114 425 main/binary-amd64/Packages
+ edee672f6466b57b0696cd77fb6a1514af43ff8195d90a22d5e8cd46cf61ad47 331 main/binary-amd64/Packages.gz
+ f20f94c974c8d3838e67416f25651580b21290bba80a10411d86831cf8b70620 116 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEY7jffmrkwN3faaqZCRmW58aOtXIFAmpMr+YACgkQCRmW58aO
+tXL4og//XoDQBIeAb2dDo/XJBwTMfowrjatXFuTVRq6RmFU9ANI6/Jbzgf2X6BI/
+vW/XrVRJiTj6BuZqfPCgkiBYDmZsmYJs+HVa8dfuggA0S4NogUkSnKeR9RIDVpVl
+rdgzW5YyTdzkF0ztH0mQUmCF4XWFd8XpLI7YDo9+jhpRQ3rdy3KamAtQL0AYIc0a
+Y0Wq/qfOXSbURODsyN/h8wJV2YbXQ6UkdqOu7Ppoq9QqZC1SU7f1RppODAguBxAu
++muyDSLu5t/0uX/aU+lJYMzSEe+14l+Jz1J9+QouHuaGQi7L8IZ4LSaJrVwxkiaC
+HysHxGDuVfqH9F703QWhgOsUaEjoNB+pmD5Ui8TLddbdILb7NY8BTmuvyMrXqKwR
+TWMoqZ8meb1//vLif/oTbk2/Gilu2itBzWfK5fILlxuBfWMfO9z02hN5Q39aRaJk
+FJtn5hugz5Io8I2D07gLjEOy1ygnJZQsfhmv6xjusmrl6WklwhNr8tF6xulIjChD
+cN2kCB14M4FKRIVltNE503UCm9rfEIfeF0K09itZSJ8ycLcoasL5KuqZIzPfGeEk
+6eoELkUWLjVv/hRmxB2yyG9HQxfOu62fYxSYDajhapkMK1QZkI6vyU68kLvvNqCy
+If207CRxutfo5Y2d8Lvq2MUILbcQOpHrgMSd7G7ODMidbYgyvKU=
+=3arC
+-----END PGP SIGNATURE-----
