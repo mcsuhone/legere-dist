@@ -5,35 +5,35 @@ Origin: Legere
 Label: Legere
 Suite: stable
 Codename: stable
-Date: Fri, 10 Jul 2026 14:01:24 UTC
+Date: Fri, 10 Jul 2026 18:06:22 UTC
 Architectures: amd64
 Components: main
 Description: Legere APT repository
 MD5Sum:
- 8b30669a9619e80ad4a55e2a20ac6c1f 502 main/binary-amd64/Packages
- 8715452fee97cb6ff14bdcbf410d86e4 386 main/binary-amd64/Packages.gz
+ b088b7eb81e397a44776847641dc17e2 502 main/binary-amd64/Packages
+ e9dcb9df1eb01dc5e373425e47a774ab 383 main/binary-amd64/Packages.gz
  502a4b909dc22f22ccedf1b216914da2 116 main/binary-amd64/Release
 SHA1:
- 71c207ecc2055a18f8af8c853934f4705c11e378 502 main/binary-amd64/Packages
- 453485b0a41ff5b020cb7eccb50a0ffa5e4f915c 386 main/binary-amd64/Packages.gz
+ c35fc67a65c1d374096fb6f9d2a90572bb020189 502 main/binary-amd64/Packages
+ d6a093832561df5a6dd82a8026ca9c0279d5aba1 383 main/binary-amd64/Packages.gz
  307006c4b009a6e5f934fb5c5a0a18448b5d8bb6 116 main/binary-amd64/Release
 SHA256:
- de8c136e17b9249ef71b6011ac7aef7cabbd301d2a7d9a852de0e4099c8820c2 502 main/binary-amd64/Packages
- 93df335f330d119caa0dc9f19df12227336a43e908f6ebd3c9c20ca3ea31fe2d 386 main/binary-amd64/Packages.gz
+ 084b4dd42b46ec4938e0f775d9ee86efd130401971f79eacd0bd207031f4ea2a 502 main/binary-amd64/Packages
+ 398089e37e50f144d4014809a1b545dab74ba8c3e8806500f0e30e29e7bba8ed 383 main/binary-amd64/Packages.gz
  f20f94c974c8d3838e67416f25651580b21290bba80a10411d86831cf8b70620 116 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEY7jffmrkwN3faaqZCRmW58aOtXIFAmpQ+zQACgkQCRmW58aO
-tXJ1Eg//etdTq+xUtIOjoEd3zLJeHB1jM9MgWL/ud5sQQJvxxjj9WgYDVwfogRh7
-JMUu4cQY1NYf+28xgLmYSNcQ/rHy8I+nlbU2c/OCKWx3kiX4b6R8QDyTRpwO+2UZ
-Qnqg4cJ/a8JlDplmQ3+n5dRfuUPCmYEGlKb93FaazoRuLSr0/v3K1buwKmeNqs+Q
-j0dAFXok0mvTS2qXWR6DZBuKeik4ZjcRS6T2cAYcM9R79w2Bz3K8zeE1I+UAQmaV
-n3aty8oWbXSYs9IBX0HyilY5imtZVrsb3gG5zC8bEHSdeEItSVHmN+4U2WyoIUfQ
-7ZGJranbausrU0Q/W2yDku8V0uOpOzlHMDIuc9jPYOKMJjQVaxqCl34BRYa6cIxe
-WzrBqAdFeXp0Pi+zW61Qk1+Irpd0nccBM+ek258FarlAA2IZpz9b8sK/5phRxf0N
-jBqxPLM32gzZJl3P2VUlzZDkI5okY1HIJWB+ZkPXTgmm3YDEVpMiQmM2WJCcNgUV
-hyc8KZdiKvQn8RFCDR4uS65V5YZGkBzmmMhD3qB0Z6pwkbYjNEhY5bQDFlhjmKaH
-vc8Bhcc9vcTAJ40Z8PMx6EvWDjgzegJkdx8odo9DKo4Pzjp86F2Lv1AMzdBKBg4c
-t1gWLbjmWZLoRd5rd3pbvkyJOvNJ0dL1BryfYW+VUYnplGrwHeY=
-=i2PZ
+iQIzBAEBCgAdFiEEY7jffmrkwN3faaqZCRmW58aOtXIFAmpRNJ4ACgkQCRmW58aO
+tXIiKA/+KjLDl1phAOk5YYal9z09yu4529+NVvfbwQ1iC745LsSNmFTt4WGyox37
+mb+T5Ywtv1YNlu1/qBuLgWdfMRjSYFDzr22w9bVQyu/jr6VBZENT+ZD/DkjO/b3o
+LjvBqXTNm4Ibflyj+yvtP9DERplayW3lTc/Wy+lTJIJiNeovQRby9gpSXVd5NDZl
+OkTJ02OtHNWFObsblJJuFFb7CACcmXIYvRrmZZxOHDVKAMgluRVuBEl7GHIn0ofn
+TG4TDZkWXwXtqTeK9XTQuHYq989MMzw2uFsQXNMqytj6/6CV0rdDRES5BjSG8l52
+zvnBd92DcbDiZlpmUZhuL/rQkY3DOcLNhCdf8zmpv6gWnPBNTEftBqYF2dXMU19O
+JedazRoWp7aky8ZNQSBDkzstqpu3aPWAaCPbs2IGCX+XJWzBzdRY0RWti4QCVHkk
+g/BgDfF7lInxITxnMbch5/F4llDRC74SbjWY3LrXP663Cu22gTIK3eCRSIS3P6Cw
+OQdyBfhShz/0fQcp4mViwLmaUWvRepAh1k6aT64rQvVJv0EygaGu6+GAQIKkvPpO
+vNN7/ZORgYzcc9VHlsNYxrU/oaDMHC7JJEwiImxFNapnPHxxL9hzEX/7lUci71h2
+LRgr3POjlLHVB352hjqkgMt8+duUNB6t3yS1LS8jD0wjQEmusdw=
+=T8IR
 -----END PGP SIGNATURE-----
