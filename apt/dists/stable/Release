@@ -2,19 +2,19 @@ Origin: Legere
 Label: Legere
 Suite: stable
 Codename: stable
-Date: Fri, 10 Jul 2026 18:06:22 UTC
+Date: Fri, 10 Jul 2026 18:24:36 UTC
 Architectures: amd64
 Components: main
 Description: Legere APT repository
 MD5Sum:
- b088b7eb81e397a44776847641dc17e2 502 main/binary-amd64/Packages
- e9dcb9df1eb01dc5e373425e47a774ab 383 main/binary-amd64/Packages.gz
+ 8bfdfede805e0b806d98ce867cad6476 502 main/binary-amd64/Packages
+ f7844d3860b398a593d354558ff8fa02 386 main/binary-amd64/Packages.gz
  502a4b909dc22f22ccedf1b216914da2 116 main/binary-amd64/Release
 SHA1:
- c35fc67a65c1d374096fb6f9d2a90572bb020189 502 main/binary-amd64/Packages
- d6a093832561df5a6dd82a8026ca9c0279d5aba1 383 main/binary-amd64/Packages.gz
+ a4b8f94f404aaf7541867f62827d709b4b1c5709 502 main/binary-amd64/Packages
+ 22f3b3144f6da34c7f2c244c8beb412e5794e368 386 main/binary-amd64/Packages.gz
  307006c4b009a6e5f934fb5c5a0a18448b5d8bb6 116 main/binary-amd64/Release
 SHA256:
- 084b4dd42b46ec4938e0f775d9ee86efd130401971f79eacd0bd207031f4ea2a 502 main/binary-amd64/Packages
- 398089e37e50f144d4014809a1b545dab74ba8c3e8806500f0e30e29e7bba8ed 383 main/binary-amd64/Packages.gz
+ f6c3c6f558d6aa24074f7cf7ae0a1857511140cbe88726e2a5dc5c1d1ec7b0f3 502 main/binary-amd64/Packages
+ 3c20f9766b74e16103efb2eea12a18e450abcf8d678a27a20d9288f5056f483f 386 main/binary-amd64/Packages.gz
  f20f94c974c8d3838e67416f25651580b21290bba80a10411d86831cf8b70620 116 main/binary-amd64/Release
