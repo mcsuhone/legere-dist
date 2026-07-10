@@ -2,19 +2,19 @@ Origin: Legere
 Label: Legere
 Suite: stable
 Codename: stable
-Date: Tue, 07 Jul 2026 12:10:37 UTC
+Date: Fri, 10 Jul 2026 14:01:24 UTC
 Architectures: amd64
 Components: main
 Description: Legere APT repository
 MD5Sum:
- ea0954883dc375cfb8e8da3c1e4f40da 502 main/binary-amd64/Packages
- 628f0dc8fe03c34e4fa6b4d4d2a0d2e5 384 main/binary-amd64/Packages.gz
+ 8b30669a9619e80ad4a55e2a20ac6c1f 502 main/binary-amd64/Packages
+ 8715452fee97cb6ff14bdcbf410d86e4 386 main/binary-amd64/Packages.gz
  502a4b909dc22f22ccedf1b216914da2 116 main/binary-amd64/Release
 SHA1:
- 066a7ab172e79df99fe0f9f85f6e0dfc2abb52f6 502 main/binary-amd64/Packages
- 31be59aea2c4815bd052ef5dd582683880ff3d74 384 main/binary-amd64/Packages.gz
+ 71c207ecc2055a18f8af8c853934f4705c11e378 502 main/binary-amd64/Packages
+ 453485b0a41ff5b020cb7eccb50a0ffa5e4f915c 386 main/binary-amd64/Packages.gz
  307006c4b009a6e5f934fb5c5a0a18448b5d8bb6 116 main/binary-amd64/Release
 SHA256:
- a2fb075243244df67bfa7c5450dab79a1d32aabc9951bc0b907b0b4983e15a4f 502 main/binary-amd64/Packages
- 948b0550dfe12bf949d1ad10ae57c47bf891f44e531dd7a82e813c8da9e773f9 384 main/binary-amd64/Packages.gz
+ de8c136e17b9249ef71b6011ac7aef7cabbd301d2a7d9a852de0e4099c8820c2 502 main/binary-amd64/Packages
+ 93df335f330d119caa0dc9f19df12227336a43e908f6ebd3c9c20ca3ea31fe2d 386 main/binary-amd64/Packages.gz
  f20f94c974c8d3838e67416f25651580b21290bba80a10411d86831cf8b70620 116 main/binary-amd64/Release
