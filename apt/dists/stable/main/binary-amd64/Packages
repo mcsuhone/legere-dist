@@ -1,16 +1,16 @@
 Package: legere
-Version: 0.1.5
+Version: 0.1.6
 Architecture: amd64
-Installed-Size: 20331
+Installed-Size: 20337
 Maintainer: Mikko Suhonen <mikko@complink.fi>
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/l/legere/legere_0.1.5_amd64.deb
-Size: 7781984
-SHA256: 9be6d3b378a62f390d0fe4e228b627947fd7d1fc881011ae2d16b496a07e8b4a
-SHA1: 1df055e35b2723b426b3f8d660d118ce11763045
-MD5sum: 2c71d17c1f1c8f46e3078414dddafe9d
+Filename: pool/main/l/legere/legere_0.1.6_amd64.deb
+Size: 7784536
+SHA256: 218c6b660e2287e0dbc1af230a292024c40d39aa454337a182921235046c0ac2
+SHA1: faef0f06dc697f92fdf5afb6fa0d7cd42daf219d
+MD5sum: d637256f5714420c482163b302bf1fc4
 Description: A calm, literary reader and editor for Markdown workspaces
  (none)
 
