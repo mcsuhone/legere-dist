@@ -1,18 +1,18 @@
 {
-  "version": "0.1.4",
-  "notes": "Legere 0.1.4",
-  "pub_date": "2026-07-10T18:14:17Z",
+  "version": "0.1.5",
+  "notes": "Legere 0.1.5",
+  "pub_date": "2026-07-10T18:32:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0JBREhpcXh3ZE5TenZ5NjNnZmYySm1qUFg2SllqdWpjMjBVV0w0NVhYc1pFQjVWNnl0T21OdE4zZGdaQ0JyMkZJQUlQNUZXVWJ5ZEVXZkxpelZBOHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA3MTIyCWZpbGU6TGVnZXJlXzAuMS40X3g2NC1zZXR1cC5leGUKaXY3VFhtdGtxSTAxcGVUazlYS2UxZ0dpaVBrRnJMRXpWY1FUUUswL0gyZWp3bHhnWjZ6UDZhUjAvNlhYdzdiYVE5WGE5eXhBRTNvVkczSTdhd1hrQWc9PQo=",
-      "url": "https://mcsuhone.github.io/legere-dist/windows/Legere_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0V0dm1oeXZJelRRSldrMWhFSFZheXk5QTJFaEFlTHhwbTFkWVIzOGVkRDFzWDNuSzhkVXJBc0JNVmpPSmkvTDJCcDJZb2VlbHBpU25YNFZ4L2cyNlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA4MTU3CWZpbGU6TGVnZXJlXzAuMS41X3g2NC1zZXR1cC5leGUKbkJsci91Vllob0dqZ0pjNzBFeWd1NVdYNzhZeUhTcXlrNkRIRGoyMklIVktYMy9uZnBFRWFPdmN1aWFra0hqL2RLTjJNMlI3eGNuWUs0c0VJbWllQlE9PQo=",
+      "url": "https://mcsuhone.github.io/legere-dist/windows/Legere_0.1.5_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0lJanY4ZzFzTDBGYTRJQzFWbDNkdkl0T2lBVGFOWVBPbmhiQk9OZ3hPQTFQa0dMOXdyYkJ5WTVjMlhueERWL1lLU0pmUGlDK00rMlhMR0M3N3JJTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA2NTg0CWZpbGU6TGVnZXJlLmFwcC50YXIuZ3oKQmY4WHc1MTFIdE5MVXM4TG9qTGFwUDcxVnJPV1JXSyswWWdYRkl2SS9uNUFCUFlhdjF4L2krdzQ1NktxeWJJRDdIbTdEekpBeC9FTFlXcTlKY1ZNQnc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0VGcm95V2N6dW5NYnZzbEg2RndJK2lBN1FmNzAzNGx6Yi9ld05jZXVPdHFGRkpmVm5pWFFLeHB5SXNrOVdGWlNFYVF2OEI1UTM1RFlqRkpoSE1lQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA3NzA4CWZpbGU6TGVnZXJlLmFwcC50YXIuZ3oKSkVzbExlUEVMcTJDdEVlQ3kvdjZHdGZxcnpwSTB4K1hObUlKcTNQellrNjVFMXgvM21lRmE2M0s5T2U1cGxCc1Rzem5FSmdVd1l3dWNkbUMvR2dLRFE9PQo=",
       "url": "https://mcsuhone.github.io/legere-dist/macos/Legere.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0lJanY4ZzFzTDBGYTRJQzFWbDNkdkl0T2lBVGFOWVBPbmhiQk9OZ3hPQTFQa0dMOXdyYkJ5WTVjMlhueERWL1lLU0pmUGlDK00rMlhMR0M3N3JJTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA2NTg0CWZpbGU6TGVnZXJlLmFwcC50YXIuZ3oKQmY4WHc1MTFIdE5MVXM4TG9qTGFwUDcxVnJPV1JXSyswWWdYRkl2SS9uNUFCUFlhdjF4L2krdzQ1NktxeWJJRDdIbTdEekpBeC9FTFlXcTlKY1ZNQnc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWUxmUkdGN2k3a0VGcm95V2N6dW5NYnZzbEg2RndJK2lBN1FmNzAzNGx6Yi9ld05jZXVPdHFGRkpmVm5pWFFLeHB5SXNrOVdGWlNFYVF2OEI1UTM1RFlqRkpoSE1lQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA3NzA4CWZpbGU6TGVnZXJlLmFwcC50YXIuZ3oKSkVzbExlUEVMcTJDdEVlQ3kvdjZHdGZxcnpwSTB4K1hObUlKcTNQellrNjVFMXgvM21lRmE2M0s5T2U1cGxCc1Rzem5FSmdVd1l3dWNkbUMvR2dLRFE9PQo=",
       "url": "https://mcsuhone.github.io/legere-dist/macos/Legere.app.tar.gz"
     }
   }
