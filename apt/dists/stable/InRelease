@@ -5,35 +5,35 @@ Origin: Legere
 Label: Legere
 Suite: stable
 Codename: stable
-Date: Fri, 10 Jul 2026 19:14:42 UTC
+Date: Thu, 06 Aug 2026 06:27:28 UTC
 Architectures: amd64
 Components: main
 Description: Legere APT repository
 MD5Sum:
- c6ae18bc1dfeb7c1a1ab51955cfbcf8e 502 main/binary-amd64/Packages
- 226ba07b359f40e2626a8868d1f83f94 383 main/binary-amd64/Packages.gz
+ 180ef2816992356e536fec4d234f6e09 502 main/binary-amd64/Packages
+ ee8ba6950577dba05e9e70335efebed9 386 main/binary-amd64/Packages.gz
  502a4b909dc22f22ccedf1b216914da2 116 main/binary-amd64/Release
 SHA1:
- f1741761653df81f0835a0032e15740606ef705d 502 main/binary-amd64/Packages
- a4fbf4c20db1a9de8f3e50b18a380fcd064b1dfc 383 main/binary-amd64/Packages.gz
+ cb7a2ece73ea1d7d34b2c208407e5877047730ad 502 main/binary-amd64/Packages
+ 143714790bc12f99382f70cfb18c56a5149ba497 386 main/binary-amd64/Packages.gz
  307006c4b009a6e5f934fb5c5a0a18448b5d8bb6 116 main/binary-amd64/Release
 SHA256:
- f1f9440a6e9ca963cffe542496d95b33bb8f229d37bb77dc4509bb251a99a115 502 main/binary-amd64/Packages
- 5ed1fe4e47189735acaede2976c6dab0d593b10a147799bfba9cca1b6df8f003 383 main/binary-amd64/Packages.gz
+ ee9df23db5e4e79bae6b60fe33a937ff3152af72d9cd4eb0cec4e84a28397728 502 main/binary-amd64/Packages
+ 4fbaf492c0af67abb6998d1489ea43e831689a8122c860d8405c95bcc8243527 386 main/binary-amd64/Packages.gz
  f20f94c974c8d3838e67416f25651580b21290bba80a10411d86831cf8b70620 116 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEY7jffmrkwN3faaqZCRmW58aOtXIFAmpRRKIACgkQCRmW58aO
-tXKB9Q//ePQv2i8lmuYXayqK6epP/uE3+bGUmwxAJyvy8bdv01DnZ4Ltx3wHA4ws
-9zL7yne01fNj3JliKiRcU1ylnRY50mpJT+bjEZFtZpFN9NdaKu4N8CK7lNU19sWU
-BlVVxHgoP6SKRBFkv70MoFzNMDSph7/K3bhLHhGIdJZSVjGqoCpus2C/HgtSOegt
-xcNRXTlArOyuJ0bmP6Q7Na/ISH2mp6NXKTVr6zMQ2BwlCbZjsDm7EbcxspdIddQ2
-orXd6f73awk1DFRE235gsf4FCdTOnTcW64sDGY1ux84U7kYndeKcQPtTZpXp6axQ
-cuMjgEqhOge7ohCqyUjB0Rotqxna07Ca0riDYkz/Ge0FWECuSGhd2B0NEmBHHjex
-dVNplleGQLKmGOZ9UdKMhx+b22EqNjupbX2oO5mNJ7zR/EjpvwN96+YNSs/a9afw
-3F0Z++LoWq9WYocaTjPg90uQCKMpwOuT8W2TNv8zlYbTfHkEfYbgAQ34qBfocSE+
-rrmusS9/eBYXCSSzDJPrqtDLBpKiPHFVQ4GpuGlVdXS0rv4V7lKRbMuR3ngqOphx
-SP1pSySC0+Tqs/EbK/v5eq1AUgbpBSGQQo3NfIt1Rws3JrDjd2Y/E7VFSatnNXjQ
-QVKhRG/6iBvNt6cOlxOX7XWb1OYjG1Hwj4hzU6K3U/NzThWy5qo=
-=nQUX
+iQIzBAEBCgAdFiEEY7jffmrkwN3faaqZCRmW58aOtXIFAmp0KVAACgkQCRmW58aO
+tXK+IA/+IZB+8lz5zc5O8gTkmwdzWUFBseDbrfkPzL4uhaEQSqcTDz5A+qQgQByG
+o5ucwPNUi3bT00Wg062e7govXscVV/XwJUSFAg0HipUtp17o2eofDvT+BNYrK3oT
+1hBTd7al3rSicgcZwtHIyunvRw2Gp0yC9a3+17TRA6gPUlCrEEZSwd4Cu8U2uFWV
+Ps6miD+ndBqWiQVF/fcBmkuvhxqpZrxMOZeDaUDlDT3i53EGeJlkVOpewDAGMAiI
+H9ecb8xMfCdmyYg2FasfU3wyrt0p0J3SdCkkRc9Pryz2vnkisGzOjhwK3pv4i3df
+gsXidIn7GXeV0M8q/tYlsL78c3FJRn5gksgLDdncmhdtxCoNUWAIvoCgw6g4+Qx8
+/qnhWEi1UnhaSBr4r3xFwXIyxRUTkmIIFDmkWGXiEdPzVAYjYPGXhYVUmeIVXt2G
+1VliArfDXE+dWPHk3Ijk/kqTT34qs16kwb2b8XhrFN9xyQ/Awq/qzaPleoVfLY1i
+dv00tOHYbbTJij49ktYCfnw5dDVGJyts09ZfkwAlCRM8fvFe74hBGP0C0XkZ0XtL
+C4tSSWB2Ll2fEXmXyZMAeEetDEy+sDi61fA2vx4MvqV3V2rOXs9CAbSA0wMyO7w5
+aUEh435l7zs+OKmAkH+WXApgQGUM5oE2TNee0fZKoi4K4X2H8xk=
+=ZFAi
 -----END PGP SIGNATURE-----
